@@ -16,4 +16,11 @@ h2 {
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 500;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btn:hover {
+    background: rgb(106, 129, 15);
+    box-shadow: 0 10px 20px rgba(73, 166, 6, 0.3);
 }
