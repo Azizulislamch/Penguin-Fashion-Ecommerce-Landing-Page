@@ -42,8 +42,8 @@ https://github.com/Azizulislamch/Penguin-Fashion-Ecommerce-Landing-Page
 Penguin-Fashion-Ecommerce-Landing-Page
 │
 ├── assets
-│ ├── icons
-│ └── images
+│  ├── icons
+│  └── images
 │
 ├── resources
 │
@@ -79,11 +79,11 @@ This project was created to practice:
 
 ## 👨‍💻 Author
 
-**Azizul Islam** 
+**Azizul Islam**  
 GitHub: https://github.com/Azizulislamch <br>
 LinkedIn: https://www.linkedin.com/in/azizul-islam-37b804246 <br>
 Codeforces: https://codeforces.com/profile/azizulislamch <br>
-Facebook: https://www.facebook.com/share/1Nsfwg4UN5/
+Facebook: https://www.facebook.com/share/1Nsfwg4UN5/ <br>
 
 ---
 
